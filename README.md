@@ -3,3 +3,5 @@ This is a simple Q table based reinforcement learning algorithm aimed to help yo
 
 # Run
 $ python3 q-learning1.py
+
+![](https://github.com/DeepsMoseli/Intro-to-reinforcement-learning/blob/master/learning.gif)
